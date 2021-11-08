@@ -1,14 +1,11 @@
-### Hi there 👋
-
-<!--
-**pandabear189/pandabear189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on too many things
-- 🌱 I’m currently learning ... python, html, css, js and more!
-- 💬 Ask me about ... anything!!
-- 😄 Pronouns: ... he/him/his
+## Hi there 👋 - I'm Eric! 
 
 
-[[Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandabear189)](https://github.com/pandabear189/github-readme-stats)
+I’m currently learning Python, HTML, CSS, JS and more!
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pandabear189&theme=tokyonight&count_private=true&show_icons=true" />
+  </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabear189&theme=tokyonight&card_width=445&layout=compact" />
+  </a>
