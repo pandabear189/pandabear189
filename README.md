@@ -1,6 +1,5 @@
 ## Hi there 👋
 ### I'm Eric
-#### he/him
 
 i was more active in 2022 :)
 
